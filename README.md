@@ -1,49 +1,51 @@
-# 👋 Hi, I'm **John Henrick Espiritu**
+# Hi, I'm **John Henrick Espiritu**
 
-### 💻 Developer • Backend Learner • Cloud-Curious
+### Software Backend Developer 
 
 I'm a developer from the Philippines who enjoys building practical and efficient solutions whether it's web apps, automation scripts, data tools, or backend systems. I love exploring new technologies and constantly improving my craft. Outside of coding, I enjoy traveling, running, working out at the gym, and hiking when I get the chance.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🔧 Experienced with **Python**, **PHP**, **JavaScript**, **Angular**, and **Django**
-* 📚 Currently focused on strengthening backend fundamentals through **Boot.dev**
-* 🐹 Learning **Go (Golang)** and building small CLI/automation projects
-* 🧪 Projects I've worked on:
-  * **CurrMaSys** – Curriculum management system (Angular + PHP + SQL)
+* Experienced with **Python**, **PHP**, **JavaScript**, **Angular**, and **Django**
+* Currently focused on strengthening backend fundamentals through **Boot.dev**
+* Learning **Go (Golang)** and building small CLI/automation projects
+* Projects I've worked on:
   * **SpeedlabPOS** – POS system using **Python Django** & Shopify REST API
+  * **CurrMaSys** – Curriculum management system (Angular + PHP + SQL)
   * **Sui Academy** – Mandarin learning platform (PHP + JS)
-  * Automation scripts & blockchain interaction tools (Python/Web3)
-* 📊 Occasionally doing data analysis with **Jupyter Notebook** and Python
-* 🔍 Interested in backend engineering, systems programming, and automation
+  * Automation scripts & tools using Python
+* Interested in backend engineering, systems programming, and automation
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages:**
-`Python` · `PHP` · `JavaScript` · `TypeScript` · `SQL` · `Go (learning)`
+`Python` · `SQL` · `PHP` · `JavaScript` .  `Go (learning)`
 
-**Frameworks & Tools:**
-`Django` · `Angular` · `htmx` · `jQuery` · `Composer` · `REST APIs`
+**Frameworks:**
+`FastAPI` . `Django` · `Docker` . `Angular`
+
+**Tools:**
+`httpx` · `uv` . `Redis` . `pandas` . `pyarrow` . `asyncio`
 
 **Other:**
-`Git` · `Jupyter Notebook` · `Blockchain scripting (Web3/Python)`
+`Git` ·  `GitHub` · `Linux(WSL2)`
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 
-* Strengthening backend design & architecture through **Boot.dev**
+* Strengthening backend design & architecture
 * Learning **Go** to build fast, reliable backend and CLI tools
 * Building personal projects involving backend logic, automation, and scripting
 * Improving Python backend skills and exploring system-level programming patterns
 
 ---
 
-## 🧰 Boot.dev Progress
+## Boot.dev Progress
 **Bootdev Profile:** *https://www.boot.dev/u/hunterx405*
 
 <p align="left">
@@ -52,7 +54,7 @@ I'm a developer from the Philippines who enjoys building practical and efficient
 
 ---
 
-## 📫 Contact
+## Contact
 
 Feel free to reach out or explore my repositories!
 
