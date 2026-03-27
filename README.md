@@ -1,52 +1,73 @@
 # Hi, I'm **John Henrick Espiritu**
 
-### Software Backend Developer 
+### Data & Backend Engineer
 
-I'm a developer from the Philippines who enjoys building practical and efficient solutions whether it's web apps, automation scripts, data tools, or backend systems. I love exploring new technologies and constantly improving my craft. Outside of coding, I enjoy traveling, running, working out at the gym, and hiking when I get the chance.
+I'm a developer from the Philippines focused on building efficient data systems, backend services, and automation tools. I enjoy working with APIs, designing data pipelines, and solving real-world problems through clean and scalable solutions.
+
+Outside of coding, I enjoy traveling, running, working out, and hiking.
 
 ---
 
 ## About Me
 
-* Experienced with **Python**, **PHP**, **JavaScript**, **Angular**, and **Django**
-* Currently focused on strengthening backend fundamentals through **Boot.dev**
-* Learning **Go (Golang)** and building small CLI/automation projects
-* Projects I've worked on:
-  * **SpeedlabPOS** – POS system using **Python Django** & Shopify REST API
-  * **CurrMaSys** – Curriculum management system (Angular + PHP + SQL)
-  * **Sui Academy** – Mandarin learning platform (PHP + JS)
-  * Automation scripts & tools using Python
-* Interested in backend engineering, systems programming, and automation
+* Built a **data ingestion & caching pipeline** processing **30,000+ API calls**, reducing redundant requests using Redis
+* Strong foundation in **Python, SQL, and backend development**
+* Experience working with **ETL workflows, REST APIs, and data processing**
+* Background in full-stack development (Angular + PHP) with focus now on backend and data systems
+* Currently expanding skills in **cloud data engineering (Google Cloud)** and system design
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-**Languages:**
-`Python` · `SQL` · `PHP` · `JavaScript` .  `Go (learning)`
+**Languages**
+`Python` · `SQL` · `PHP` · `JavaScript` · `Go (learning)`
 
-**Frameworks:**
-`FastAPI` . `Django` · `Docker` . `Angular`
+**Data & Backend**
+`ETL Pipelines` · `REST APIs` · `pandas` · `Redis` · `Django` · `FastAPI`
 
-**Tools:**
-`httpx` · `uv` . `Redis` . `pandas` . `pyarrow` . `asyncio`
+**Databases**
+`PostgreSQL` · `MySQL`
 
-**Other:**
-`Git` ·  `GitHub` · `Linux(WSL2)`
+**Tools & Infrastructure**
+`Git` · `Docker` · `Linux (WSL2)` · `httpx` · `asyncio`
+
+---
+
+## Featured Projects
+
+### PyCacheAPI – Data Ingestion & Caching Pipeline
+
+* Processed **30,000+ API calls** with Redis-based caching
+* Reduced redundant requests and improved performance efficiency
+* Implemented retry logic, error handling, and request tracking metrics
+
+### SpeedlabPOS – Data Integration System
+
+* Built Django-based backend integrating **Shopify APIs**
+* Handled order processing, payments, and inventory synchronization
+* Developed real-time data processing for sales and stock tracking
+
+### CurrMaSys – Curriculum Management System
+
+* Developed backend logic for course management using **PHP + SQL**
+* Implemented validation, business rules, and system workflows
 
 ---
 
 ## Current Focus
 
-* Strengthening backend design & architecture
-* Learning **Go** to build fast, reliable backend and CLI tools
-* Building personal projects involving backend logic, automation, and scripting
-* Improving Python backend skills and exploring system-level programming patterns
+* Building scalable **data pipelines and backend systems**
+* Strengthening **SQL and data modeling skills**
+* Learning **Google Cloud (BigQuery, data warehousing)**
+* Exploring **Go** for high-performance backend and CLI tools
 
 ---
 
-## Boot.dev Progress
-**Bootdev Profile:** *https://www.boot.dev/u/hunterx405*
+## Learning & Progress
+
+**Boot.dev Profile:**
+https://www.boot.dev/u/hunterx405
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/3b751e86-05b1-4b55-9a64-882d9bcf07ef/thumbnail">
@@ -56,10 +77,9 @@ I'm a developer from the Philippines who enjoys building practical and efficient
 
 ## Contact
 
-Feel free to reach out or explore my repositories!
-
-**📧 Email:** *johnhenrick.espiritu@gmail.com*
-
-**🔗 LinkedIn:** *https://www.linkedin.com/in/johnhenrickespiritu/*
+*  Email: [johnhenrick.espiritu@gmail.com](mailto:johnhenrick.espiritu@gmail.com)
+*  LinkedIn: https://www.linkedin.com/in/johnhenrickespiritu/
 
 ---
+
+Always open to opportunities in **Data Engineering, Backend Development, and Data Systems**
