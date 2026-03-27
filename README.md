@@ -66,6 +66,9 @@ Outside of coding, I enjoy traveling, running, working out, and hiking.
 
 ## Learning & Progress
 
+**Google Skills Profile:**
+https://www.skills.google/public_profiles/b3713f25-7ad2-4760-8210-b48ed803abb1
+
 **Boot.dev Profile:**
 https://www.boot.dev/u/hunterx405
 
